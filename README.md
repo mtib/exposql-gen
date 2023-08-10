@@ -14,3 +14,4 @@
 - [Kotlin](https://kotlinlang.org/)
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed)
 - [drdaemos/sql-parser](https://github.com/drdaemos/sql-parser)
+- [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse)
